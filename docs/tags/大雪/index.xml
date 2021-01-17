@@ -2,35 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>大雪 on Shiba.Labo</title>
-    <link>http://example.org/tags/%E5%A4%A7%E9%9B%AA/</link>
+    <link>http://github.com/masanam77/shiba.labo.git/tags/%E5%A4%A7%E9%9B%AA/</link>
     <description>Recent content in 大雪 on Shiba.Labo</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ja-jp</language>
-    <lastBuildDate>Tue, 12 Jan 2021 19:57:53 +0900</lastBuildDate><atom:link href="http://example.org/tags/%E5%A4%A7%E9%9B%AA/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Tue, 12 Jan 2021 19:57:53 +0900</lastBuildDate><atom:link href="http://github.com/masanam77/shiba.labo.git/tags/%E5%A4%A7%E9%9B%AA/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>雪害極まれり</title>
-      <link>http://example.org/post/2021/01/entry2/</link>
+      <link>http://github.com/masanam77/shiba.labo.git/post/2021/01/entry2/</link>
       <pubDate>Tue, 12 Jan 2021 19:57:53 +0900</pubDate>
       
-      <guid>http://example.org/post/2021/01/entry2/</guid>
+      <guid>http://github.com/masanam77/shiba.labo.git/post/2021/01/entry2/</guid>
       <description>思わぬところで悲劇が起こる。人の生は運命に翻弄されていく。ままならぬものだ。</description>
     </item>
     
     <item>
       <title>雪かき続くよ。どこまでも。</title>
-      <link>http://example.org/post/2021/01/entry/</link>
+      <link>http://github.com/masanam77/shiba.labo.git/post/2021/01/entry/</link>
       <pubDate>Sun, 10 Jan 2021 23:41:05 +0900</pubDate>
       
-      <guid>http://example.org/post/2021/01/entry/</guid>
+      <guid>http://github.com/masanam77/shiba.labo.git/post/2021/01/entry/</guid>
       <description>すごいことになってるよ。</description>
     </item>
     
     <item>
       <title>コロナに大雪</title>
-      <link>http://example.org/post/2021/01/my-second-post/</link>
+      <link>http://github.com/masanam77/shiba.labo.git/post/2021/01/my-second-post/</link>
       <pubDate>Wed, 06 Jan 2021 00:00:00 +0000</pubDate>
       
-      <guid>http://example.org/post/2021/01/my-second-post/</guid>
+      <guid>http://github.com/masanam77/shiba.labo.git/post/2021/01/my-second-post/</guid>
       <description>明日からしばらく天候が悪化するらしい。大雪に加えて猖獗を極めるコロナ。世紀末は乗り切ったが、終末感はますます高まっている。</description>
     </item>
     
