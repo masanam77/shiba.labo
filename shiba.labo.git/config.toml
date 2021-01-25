@@ -3,7 +3,7 @@ title = "Shiba.Labo"
 theme = "ananke"
 languageCode = "ja-jp"
 summarylength = 100
-publishDir              = "docs"
+publishDir = "docs"
 canonifyurls = true
 draft = false
 
@@ -30,7 +30,7 @@ googleAnalytics = ""
 [params]
 slogan = "ささやかに暮らす"
 description = "artとか文学とか漫画とかそのあたり書きます"
-#author = "shibawan"
+author = "shibawan"
 #authorLink = ""
 #bio = ["年とってから美術の勉強中"]
 copyright = ["&copy; 2021 shiba","Nederburg Hugo Theme by [Appernetic]().","A port of Tracks by Compete Themes."]
@@ -47,26 +47,26 @@ background_color_class = "bg-blue"
 [menu]
 [[menu.main]]
   name = "art"
-  url1 = "contact/"
+  url1 = "content/post/"
   weight = 1
 
 [[menu.main]]
    name = "Life"
-   url1 = "contact/post/"
+   url1 = "content/post/"
    weight = 2
 
 [[menu.main]]
      name = "about"
-     url1 = "about/"
+     url1 = "content/post"
      weight = 3
 [[menu.main]]
        name = "culture"
-       url1 = "contact/"
+       url1 = "content/post"
        weight = 4
 
 [[menu.main]]
        name = "book"
-       url1 = "contact/"
+       url1 = "content/post"
        weight = 5
 
 [taxsonomies]

@@ -1,8 +1,11 @@
 ---
 title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
-tag: []
+tags: []
 featured_image: ""
 description: ""
 author: []
+image:  ""
+categories:  []
+menu : main
 ---
