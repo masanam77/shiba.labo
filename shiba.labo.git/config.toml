@@ -47,26 +47,26 @@ background_color_class = "bg-blue"
 [menu]
 [[menu.main]]
   name = "art"
-  url1 = "content/post/"
+  url1 = "/art/"
   weight = 1
 
 [[menu.main]]
    name = "Life"
-   url1 = "content/post/"
+   url1 = "/Life/"
    weight = 2
 
 [[menu.main]]
      name = "about"
-     url1 = "content/post"
+     url1 = "/about/"
      weight = 3
 [[menu.main]]
        name = "culture"
-       url1 = "content/post"
+       url1 = "/culture/"
        weight = 4
 
 [[menu.main]]
        name = "book"
-       url1 = "content/post"
+       url1 = "/book/"
        weight = 5
 
 [taxsonomies]
