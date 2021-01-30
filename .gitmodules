@@ -1,3 +1,7 @@
 [submodule "themes/ananke"]
 	path = themes/ananke
 	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "shiba.labo"]
+	path = shiba.labo
+	url = https://github.com/masanam77/shiba.labo.git
+	branch = master

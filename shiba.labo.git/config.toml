@@ -4,7 +4,7 @@ theme = "ananke"
 languageCode = "ja-jp"
 summarylength = 100
 publishDir = "docs"
-canonifyurls = true
+canonifyurls = false
 draft = false
 
 SEOTitle = "楽しみだね"
@@ -45,29 +45,13 @@ background_color_class = "bg-blue"
     post = "/:section/:year/:month/:filename"
 
 [menu]
+
 [[menu.main]]
-  name = "art"
-  url1 = "/art/"
+  name = ""
+  pre = "<i class='fa fa-heart'></i>"
   weight = 1
-
-[[menu.main]]
-   name = "Life"
-   url1 = "/Life/"
-   weight = 2
-
-[[menu.main]]
-     name = "about"
-     url1 = "/about/"
-     weight = 3
-[[menu.main]]
-       name = "culture"
-       url1 = "/culture/"
-       weight = 4
-
-[[menu.main]]
-       name = "book"
-       url1 = "/book/"
-       weight = 5
+  identifier = ""
+  url1 = ""
 
 [taxsonomies]
 category = "categories"
