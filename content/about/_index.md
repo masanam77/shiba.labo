@@ -1,8 +1,7 @@
 ---
 title: "about"
-description: "A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: —ANANKE."
+description: "The purpose of this site is to record various events that occur in daily life. From facts to paranormal phenomena, we record daily events in this world. The main object of observation is the world of subculture. I'm not going to do that complicated thing. Everyday life is nearing the end. Fortunately, I can rely on the power of HUGO + ananke when my daily memories are likely to become ambiguous."
 featured_image: '/images/paris1.jpg'
 ---
 
-
-_The Hunchback of Notre-Dame_ (French: _Notre-Dame de Paris_) is a French Romantic/Gothic novel by Victor Hugo, published in 1831. The original French title refers to Notre Dame Cathedral, on which the story is centered. English translator Frederic Shoberl named the novel The Hunchback of Notre Dame in 1833 because at the time, Gothic novels were more popular than Romance novels in England. The story is set in Paris, France in the Late Middle Ages, during the reign of Louis XI.
+ 日常生活の中に生じる様々な出来事を記録するのがこのサイトの目的です。事実から超常現象まで、この世の出来事を毎日記録します。主な観察対象はサブカルチャーの世界です。それほど複雑なことをするつもりはありません。毎日の暮しもそろそろ終盤を迎えつつあります。日々の記憶も曖昧になりそうな時にHUGO+anankeの力に頼れるのは幸いです。
