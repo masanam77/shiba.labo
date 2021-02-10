@@ -4,7 +4,7 @@ theme = "ananke"
 languageCode = "ja-jp"
 summarylength = 100
 publishDir = "docs"
-canonifyurls = false
+canonifyurls = true
 draft = false
 
 SEOTitle = "楽しみだね"
@@ -17,7 +17,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 #enableRobotsTXT = true
-disqusShortname = "shiba-labo"
+disqusShortname = "shiba-labo-1"
 
 [outputs]
     page = [ "HTML" , "AMP"  ]
