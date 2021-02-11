@@ -17,7 +17,7 @@ SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 #enableRobotsTXT = true
-disqusShortname = "shiba-labo-1"
+disqusShortname = "shiba-labo"
 
 [outputs]
     page = [ "HTML" , "AMP"  ]
