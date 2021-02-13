@@ -1,8 +1,8 @@
 ---
 title: "なぜ今室町幕府なのか"
 date: 2021-02-10T21:27:00+09:00
-tags: [”books”]
-featured_image: ""
+tags: [books]
+featured_image: "/images/haken1.jpg"
 description: ""
 author: [shibawan]
 image:  ""
