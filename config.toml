@@ -25,7 +25,7 @@ disqusShortname = "shiba-labo"
 [params.social]
   facebook      = "full profile url in facebook"
   #googleplus    = "full profile url in googleplus"
-  email         = "shibamac@icloud.com"
+  email         = "shibamac@me.com"
   twitter       = "full profile url in twitter"
 
 [params]
