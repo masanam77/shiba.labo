@@ -1,7 +1,7 @@
 ---
 title: "裸婦デッサンの2"
 date: 2021-12-15T20:16:47+09:00
-tags: [”art”,"life"]
+tags: ["art","life"]
 featured_image: "/images/IMG_1600.JPG"
 description: ""
 author: [shibawan]
