@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 けっこう頑張ったつもりだったけど。
 出し切れなかった。
