@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 ８月はぜんぜんダメでした。反省を踏まえて描いて見たものの
 やはりうまくいかんな。顔というか頭部が描けない。
