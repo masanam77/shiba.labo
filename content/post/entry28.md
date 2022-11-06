@@ -1,7 +1,7 @@
 ---
 title: "裸婦デッサン10月"
 date: 2022-10-25T22:13:24+09:00
-tags: [”art”,"life","デッサン"]
+tags: ["art","life","デッサン"]
 featured_image: "/images/IMG_25112.jpg"
 description: ""
 author: []
