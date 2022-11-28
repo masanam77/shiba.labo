@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 何がどうということはありません。あとはもう描き続けることだけです。高橋周造先生、今までありがとうございました。まだまだ描き続けます。
 ![画像](/images/IMG_25112.jpg)
