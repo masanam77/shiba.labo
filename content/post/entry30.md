@@ -10,3 +10,4 @@ categories:  []
 menu : main
 ---
 短い時間ですが、描きました。だんだんモデルを見なくなってきたような。
+![画像](/images/IMG_2518B.jpg)
