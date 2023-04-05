@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 勉強不足というべきか、日常的な修行が足りないのかも。
 もっときれいに描けるといいな。
