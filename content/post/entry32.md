@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 うまくいかない時はうまくいかない。
 目指しているものとは違う表現だけど、しかたがない。
