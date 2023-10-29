@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 松本零士先生さようなら。さようなら銀河鉄道999。
 ほんとうにあこがれたなあ。松本零士のまんが。

@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu: main
 ---
 これが夏の成果。過酷な活動でした。
 できは悪いけれども、昔憧れたキャンパスに入れたことは良い思い出となりそうです。
