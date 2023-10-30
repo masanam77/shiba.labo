@@ -1,6 +1,6 @@
 ---
 title: "松本零士の世界"
-date: 2023-2-23T19:14:47+09:00
+date: 2023-02-23T19:14:47+09:00
 tags: ["art","life","まんが"]
 featured_image: "/images/IMG_25802.jpg"
 description: ""

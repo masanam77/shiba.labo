@@ -1,6 +1,6 @@
 ---
 title: "6月デッサン"
-date: 2023-6-24T18:50:29+09:00
+date: 2023-06-24T18:50:29+09:00
 tags: ["art","life","デッサン"]
 featured_image: "/images/IMG_26942.jpg"
 description: ""
