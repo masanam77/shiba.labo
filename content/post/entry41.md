@@ -1,5 +1,5 @@
 ---
-title: "石膏デッサンの練習「ジュルジュ」"
+title: "石膏デッサンの練習「ジョルジュ」"
 date: 2024-02-14T22:02:47+09:00
 tags: ["art","tokyo","life"]
 featured_image: "/images/IMG_0208.jpg"
