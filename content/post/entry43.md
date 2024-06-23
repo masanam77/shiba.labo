@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 難しいポーズでした。それにしてもだんだん正面を描く気がなくなってきたな。匿名性というか。客観性というか顔のない世界というのも
 ありかな。
