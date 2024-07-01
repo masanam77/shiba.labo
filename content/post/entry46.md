@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu : 
 ---
 力強いデッサンを描こうとして、このような結果になり残念至極です。まだまだ勉強不足。修業が足りないな。
 
