@@ -7,7 +7,7 @@ description: ""
 author: []
 image:  ""
 categories:  []
-menu : main
+menu :
 ---
 地元の新潟市白山神社の桜です。夜桜を見に多くの人々が集まります。
 ここは平和でよかった。桜もきれいです。
