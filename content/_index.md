@@ -1,5 +1,5 @@
 ---
-title: "Shiba.Labo"
+title: "Shiba.One"
 #featured_image: '/images/gohugo-default-sample-hero-image.jpg'
 description: "とりあえず映画と美術について書きます。"
 ---
